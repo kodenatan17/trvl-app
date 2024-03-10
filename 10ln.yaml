@@ -1,0 +1,3 @@
+output-localization-file: app_localizations.dart
+synthetic-package: false
+nullable-getter: false
