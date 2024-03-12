@@ -13,4 +13,6 @@ class AppColors {
   static const bgPrimaryTextColor = Color(0xFF14193F);
   static const bgSecondaryTextColor = Color(0xff696B76);
   static const bgSecondaryLightTextColor = Color(0xFFEFEEF1);
+  static const bgNeutralGrey60 = Color(0xffc2c2c2);
+  static const bgNeutralGrey20 = Color(0xfff2f2f2);
  }
